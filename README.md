@@ -8,8 +8,6 @@ Either clone the repository to your WoW/Interface/Addons folder, or download man
 ## License
 The adjustments were originally made by <a href="https://github.com/MOUZU"><b>LYQ</b></a> and <a href="https://github.com/xorann/BigWigs"><b>Dorann</b></a> and <a href="https://github.com/Hosq"><b>Hosq</b></a><br>
 
-Adjustments for Lightshope made by <b>AnthonyGrey</b>.<br>
-
 ## Changelog
 Increased combat range for fights like 4HM, Sapphiron, Twin Eperors, C'thun and KT.
 Fixed some issues with resetting encounters.
