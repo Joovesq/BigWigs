@@ -13,4 +13,4 @@ Currently, only english clients are supported. In general, the Addon can work wi
 
 ## License
 The adjustments were originally made by <a href="https://github.com/MOUZU"><b>LYQ</b></a> and <a href="https://github.com/xorann/BigWigs"><b>Dorann</b></a><br>
-Adjustments for Elysium made by <b>Hosq</b>.<br>
+Adjustments for Lightshope made by <b>AnthonyGrey</b>.<br>
